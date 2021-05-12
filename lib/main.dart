@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Column(
           children: [
-            Text("Click the button"),
+            Text("Select the option"),
             RaisedButton(
               child: Text('Answer1'),
               onPressed: outputAnswer,
